@@ -19,6 +19,9 @@
       },
       "predictiveBackGestureEnabled": false
     },
+    "androidNavigationBar": {
+      "visible": "sticky-immersive"
+    },
     "web": {
       "output": "server",
       "favicon": "./assets/images/favicon.png"
